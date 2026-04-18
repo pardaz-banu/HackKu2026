@@ -19,7 +19,7 @@ KellyCopilot is a full-stack AI travel assistant that guides "Kelli" (a business
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 frontend/          ← React + Vite (port 3000)
@@ -48,7 +48,7 @@ backend/
 
 ---
 
-## 🚀 Quick Start (5 minutes)
+## Quick Start (5 minutes)
 
 ### Prerequisites
 - Python 3.10+
